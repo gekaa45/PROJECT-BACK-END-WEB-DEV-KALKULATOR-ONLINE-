@@ -33,10 +33,10 @@ Aplikasi ini dibuat untuk menangani perhitungan matematika dasar hingga lanjutan
 
 Projek kalkulator online/
 ├── actions/
-│   ├── calculate.php      # Proses perhitungan di sisi server
-│   └── get_history.php    # Mengambil data riwayat dari database
+    ├── calculate.php      # Proses perhitungan di sisi server
+   └── get_history.php    # Mengambil data riwayat dari database
 ├── assets/
-│   ├── css/
+  ├── css/
 │   │   └── style.css      # Styling untuk UI & pengaturan tema
 │   └── js/
 │       └── script.js      # Logika kalkulator dan interaksi pengguna
